@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Enyan Dai's homepage"
 title_separator          : "-"
 name                     : &name "Enyan Dai"
-description              : &description "Hello, world!"
+description              : &description "The Pennsylvania State University, IST"
 url                      : https://enyandai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enyandai/enyandai.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Enyan Dai"
   avatar           : "profile.png"
   bio              : 
-  location         : "Location"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=bLfT4OYAAAAJ"
