@@ -18,4 +18,4 @@ redirect_from:
 
 ## Workshop Paper
 1. Chen, Chacha, Chieh-Yang Huang, Yaqi Hou, Yang Shi, **Enyan Dai**, and Jiaqi Wang. "TEST_POSITIVE at W-NUT 2020 Shared Task-3: Cross-task modeling." In Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020). 2020.
-2. Chen, Shuaijun, Zhen Han, **Enyan Dai**, Xu Jia, Ziluan Liu, Liu Xing, Xueyi Zou, Chunjing Xu, Jianzhuang Liu, and Qi Tian. "Unsupervised image super-resolution with an indirect supervised path." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020.
+2. Chen, Shuaijun, Zhen Han, **Enyan Dai**, et al. "Unsupervised image super-resolution with an indirect supervised path." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020.
